@@ -1,0 +1,9 @@
+#@author Scott M Parrish<anithri@gmail.com>
+
+./solve11.rb FILE
+
+I'm still learning rdoc and yard, and these files are not documented competely, Just enough for someone reading the
+code to understand it.
+
+This uses the same basic cursor idea as my solution for #10.  this time implemented as 2 variables instead of a struct.
+

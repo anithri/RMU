@@ -1,0 +1,8 @@
+#@author Scott M Parrish<anithri@gmail.com>
+./solve10.rb FILE
+
+Array#slice_before is ruby1.9 only.
+
+I'm still learning rdoc and yard, and these files are not documented completely, Just enough for someone reading the
+code to understand it.
+
